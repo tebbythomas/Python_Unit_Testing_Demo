@@ -1,4 +1,4 @@
-# Python unit testing demo
+# Python Unit Testing demo
 
 <p>
 This repo consists of 2 demos showcasing how Python's inbuilt <b>unittesting</b> module can be used to perform unit testing.
@@ -6,7 +6,7 @@ This repo consists of 2 demos showcasing how Python's inbuilt <b>unittesting</b>
 The files to note are:
 <br />
 <br />
-1.1 <b>calc.py</b>: A simple Python calculator program with basic addition, subtraction, multiplication and division methods
+1.1. <b>calc.py</b>: A simple Python calculator program with basic addition, subtraction, multiplication and division methods
 <br />
 <br />
 1.2. <b>test_calc.py</b>: The corresponding unittest file that uses asserts methods to test all the operations defined in calc.py
