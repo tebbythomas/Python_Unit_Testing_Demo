@@ -18,3 +18,10 @@ The files to note are:
 2.2 <b>test_employee.py</b>: This code is the unittest file for employee.py and shows how assert functions can be used to test all the methods of employee.py like email, pay, full names.
 <br />
 Also a <b>mocked_get</b> assertion is used to mimic testing a call to an external API and testing its responses.
+<br />
+<br />
+<b>Credits:</b>
+<br />
+Corey Schafer:
+<br />
+https://www.youtube.com/watch?v=6tNS--WetLI
